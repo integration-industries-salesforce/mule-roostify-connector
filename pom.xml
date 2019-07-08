@@ -6,9 +6,9 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mulesoft.connectors</groupId>
     <artifactId>mule-roostify-connector</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>mule-extension</packaging>
-    <name>Roostify Connector</name>
+    <name>Roostify - Mule 4</name>
 
     <parent>
         <groupId>com.mulesoft.connectors</groupId>
@@ -59,10 +59,10 @@
         </dependency>
     </dependencies>
     <scm>
-        <connection>scm:git:git@github.com/integration-industries-salesforce/mule-roostify-connector.git</connection>
-        <developerConnection>scm:git:git@github.com/integration-industries-salesforce/mule-roostify-connector.git</developerConnection>
-        <url>https://git@github.com/integration-industries-salesforce/mule-roostify-connector</url>
-        <tag>mule-roostify-connector-1.0.0</tag>
+        <connection>scm:git:git@github.com/mulesoft/mule-roostify-connector.git</connection>
+        <developerConnection>scm:git:git@github.com/mulesoft/mule-roostify-connector.git</developerConnection>
+        <url>https://git@github.com/mulesoft/mule-roostify-connector</url>
+        <tag>HEAD</tag>
     </scm>
     <build>
         <plugins>
